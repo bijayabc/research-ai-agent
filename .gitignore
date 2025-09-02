@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Env files
+.env
+
+# Output / logs
+Research Output.txt
+*.log
